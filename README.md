@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: We still don't know the origins of the ice cream cone :o
 
-[![OneRandom's GitHub stats](https://github-readme-stats.vercel.app/api?username=onerandom1509)](https://github.com/anuraghazra/github-readme-stats)
+[![OneRandom's GitHub stats](https://github-readme-stats.vercel.app/api?username=onerandom1509&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
