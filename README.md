@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [ValveControl](https://github.com/onerandom1509/valvecontrol)
 - 🌱 I’m currently learning C++ and Flutter!
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with webdev :(
