@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something secret 🤐
+- 🔭 I’m currently working on [Hydraware](https://github.com/nots1dd/hydraware)!
 - 🌱 I’m currently learning C++ and Flutter!
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m trying to keep my friends away from webdev :(
