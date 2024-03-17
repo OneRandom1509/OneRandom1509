@@ -9,6 +9,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: We still don't know the origins of the ice cream cone :o
 
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
+
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OneRandom1509&theme=ayu_mirage" alt="stats" />
   <br><br>
