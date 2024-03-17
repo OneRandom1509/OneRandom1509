@@ -9,6 +9,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: We still don't know the origins of the ice cream cone :o
 
-[![OneRandom's GitHub stats](https://github-readme-stats.vercel.app/api?username=onerandom1509&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onerandom1509&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OneRandom1509&theme=ayu_mirage" alt="stats" />
+  <br><br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OneRandom1509&theme=ayu_mirage" alt="langs" />
+  &nbsp;&nbsp;
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OneRandom1509&theme=ayu_mirage" alt="stats" />
+</p>
