@@ -1,15 +1,9 @@
-### Hi there 👋
+## Hello there!
+I'm a random wanderer who makes stuff and breaks stuff.
 
-- 🔭 I’m currently working on [Hydraware](https://github.com/nots1dd/hydraware)!
-- 🌱 I’m currently learning C++ and Flutter!
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m trying to keep my friends away from webdev :(
-- 💬 Ask me about anything related to python/ctfs :)
-- 📫 How to reach me: Discord- onerandom
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: We still don't know the origins of the ice cream cone :o
+How to reach me: ![Discord- onerandom](https://dcbadge.vercel.app/api/shield/onerandom?compact=true)
 
-## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
+Here's some cool stats btw
 
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OneRandom1509&theme=ayu_mirage" alt="stats" />
