@@ -1,5 +1,5 @@
 ## Hello there!
-I'm a random wanderer who makes stuff and breaks stuff.
+I'm a random wanderer who makes stuff and breaks stuff (i use arch btw).
 
 How to reach me: ![Discord- onerandom](https://dcbadge.vercel.app/api/shield/780651838000988172?compact=true)
 
