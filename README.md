@@ -20,11 +20,9 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=OneRandom1509&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
-I'm a random wanderer who makes stuff and breaks stuff, currently tinkering around with my linux system (I use arch btw)
+I'm a random wanderer who makes stuff and breaks stuff, currently tinkering around with my linux system (I use arch btw) and learning go!
 
-I do some frontend web-dev with react, android app-dev with flutter, and an ex-discord-bot dev :(
-
-I like solving rubik's cubes, playing sports and I type fast (kinda). I also participate and solve CTFs :)
+I like solving rubik's cubes, playing sports and I type fast (kinda). I participate in CTFs and sometimes make them too!
 
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
