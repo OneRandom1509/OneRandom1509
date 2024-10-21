@@ -20,7 +20,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=OneRandom1509&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
-I'm a random wanderer who makes stuff and breaks stuff, currently tinkering around with my linux system (I use arch btw) and learning go!
+I'm a random wanderer who makes stuff and breaks stuff, currently tinkering around with my linux system (I use arch btw) and learning rust!
 
 I like solving rubik's cubes, playing sports and I type fast (kinda). I participate in CTFs and sometimes make them too!
 
