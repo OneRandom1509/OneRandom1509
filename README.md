@@ -47,7 +47,7 @@ some lesser known languages like <br>
 </div>
 </td>
 <td>
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OneRandom1509&theme=gruvbox" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OneRandom1509&theme=2077" />
 </td>
   
 </tr>
@@ -57,5 +57,5 @@ some lesser known languages like <br>
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Statistics
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OneRandom1509&theme=gruvbox" alt="stats" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OneRandom1509&theme=2077" alt="stats" />
 </div>
