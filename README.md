@@ -20,7 +20,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=OneRandom1509&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
-I'm a random wanderer who makes stuff and breaks stuff, currently tinkering around with my linux system (I use arch btw) and learning rust!
+I'm a random wanderer who makes stuff and breaks stuff, currently learning rust!
 
 I like solving rubik's cubes, playing sports and I type fast (kinda). I participate in CTFs and sometimes make them too!
 
@@ -42,7 +42,7 @@ I am quite fluent in the following languages
 
 Being a multilingual I'm also quite fluent in <br>
 some lesser known languages like <br>
-**Python, C/C++, JS/TS** and more...
+**Python, C/C++, Rust, JS/TS** and more...
 
 </div>
 </td>
