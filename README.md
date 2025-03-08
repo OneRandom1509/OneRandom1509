@@ -20,7 +20,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=OneRandom1509&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
-I'm a random wanderer who makes stuff and breaks stuff, currently learning rust!
+I'm a random wanderer who makes stuff and breaks stuff, currently trying to build something with **wayland-rs**!
 
 I like solving rubik's cubes, playing sports and I type fast (kinda). I participate in CTFs and sometimes make them too!
 
