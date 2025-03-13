@@ -16,7 +16,7 @@
 
 </div>
 
-## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
+## <a href="https://emoji.gg/emoji/2078-herta-kurukuru"><img src="https://cdn3.emoji.gg/emojis/2078-herta-kurukuru.gif" width="36px" height="36px" alt="Herta_Kurukuru"></a> About Me
 
 <img align="right" src="https://komarev.com/ghpvc/?username=OneRandom1509&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
@@ -24,7 +24,7 @@ I'm a random wanderer who makes stuff and breaks stuff, currently trying to buil
 
 I like solving rubik's cubes, playing sports and I type fast (kinda). I participate in CTFs and sometimes make them too!
 
-## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
+## <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="28px" height="28px" alt="HackerBongoCat"></a> Languages
 
 <div align="center">
 <table>
