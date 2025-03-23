@@ -16,7 +16,7 @@
 
 </div>
 
-## <a href="https://emoji.gg/emoji/2078-herta-kurukuru"><img src="https://cdn3.emoji.gg/emojis/2078-herta-kurukuru.gif" width="36px" height="36px" alt="Herta_Kurukuru"></a> About Me
+## <a href="https://emoji.gg/emoji/2078-herta-kurukuru"><img src="https://cdn3.emoji.gg/emojis/2078-herta-kurukuru.gif" width="48px" height="48px" alt="Herta_Kurukuru"></a> About Me
 
 <img align="right" src="https://komarev.com/ghpvc/?username=OneRandom1509&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
